@@ -1,0 +1,20 @@
+img {
+    margin-left: 40%;
+    background-size: auto;
+}
+
+h3 {
+    font-size: 40px;
+    margin-left: 30%;
+    color:chocolate;
+}
+
+h4 {
+    font-size: 30px;
+    margin-left: 43%;
+}
+
+body {
+    background: url(PicsArt_03-11-12.02.29.jpg);
+    background-size: cover;
+}
